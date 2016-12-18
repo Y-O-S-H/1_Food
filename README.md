@@ -35,7 +35,7 @@ An option for large groups and families seeking to feed a wide variety of people
 Treating yourself or your group to a meal prepared by a professional using ingredients that have undergone scrutiny to a degree greater than you or your group can provide. Can be used in conjunction with celebrations.
 
 ## Easy troubleshooting (＄+ | ⏱+)
-###When do I need to seek help to improve my finances and free time?
+###When do I need to seek other people so I can increase my finances and free time?
 * You cannot believe the opinion of those that have noticeably improved your life and continuously prove they only have your best interest at heart.
 * A topic or concept occupies your mind alongside fear so often and uncontrollably that it prevents you from enjoying life.
 
