@@ -18,7 +18,7 @@ Food can also be:
 		* Saturated fatty acids...24g
 		* Carbohydrate............310g
 		* Sugars..................90g
-        [Simple Food Calculator](http://caloriecontrol.org/healthy-weight-tool-kit/food-calorie-calculator/ "Simple Food Calculator")
+		[http://caloriecontrol.org/healthy-weight-tool-kit/food-calorie-calculator](http://caloriecontrol.org/healthy-weight-tool-kit/food-calorie-calculator)
 
 ###Concerns
 
@@ -39,7 +39,7 @@ Food can also be:
 Soil nutrition, crop rotations, and how much per square meter is required to generate how much food to feed a person.
 #####Hunting (＄＄＄＄ | ⏱⏱⏱⏱)
 Available only to those that live in regions where regulation and licensing allowing for sustainable hunting, and natives of a country whose lifestyle depend upon it.
-#####Economic income (＄＄＄＄ | ⏱⏱)
+#####Economic income (＄＄＄ | ⏱⏱⏱)
 
 * Family/Social/Government assistance
 * Being a part of an economic supply chain
