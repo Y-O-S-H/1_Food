@@ -28,6 +28,10 @@ Food can also be:
 		Q: What if I can't/don't eat one (or more) of the above daily; or eat too much?
 		A: The closer you can get to the above basic values through controlling your own intake, the greater your mental and physical capacity to both handle problems and improve life. Simple as that.
 
+
+		Q: Hey, I know we need things like vitamins and minterals! Why aren't they on the list?
+		A: Because you need to do the above list every day, whereas the other things can be considered when someone is willing to create their 'diet'. Not everyone wants their food to have to be labelled a 'diet', or even have to put that much thought into it, and some people only eat for comfort/pleasure.
+
 ##How to achieve your food needs
 ###Gathering
 #####Farming (＄＄＄＄＄ | ⏱)
