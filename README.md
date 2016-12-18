@@ -9,10 +9,7 @@
 * Sugars .................................... 90g
 * Dietary fibre .......................... 30g
 
-
-
-
-        Q: What would happen if I don't eat one (or more) of the above daily?
+        Q: What if I can't/don't eat one (or more) of the above daily?
         A: The closer you can get to the above basic values, the greater your mental and physical capacity to both handle problems and improve life.
 
 ##Food Gathering and Preparation
