@@ -25,7 +25,7 @@
 * Pre-made meals
 * Restaurants
 
-## Troubleshooting
+## Easy troubleshooting
 ###You need help when
 * You cannot believe the opinion of those that have noticeably improved your life and only want what's best for you.
 * Food occupies your mind alongside fear so often that it prevents you from enjoying life.
