@@ -24,7 +24,7 @@ The cheapest/efficient option for those seeking food on the go but are too busy 
 #####Hunting
 Available only to those that live in regions where regulation and licensing allowing for sustainable hunting, and natives of a country whose lifestyle depend upon it.
 #####Leftovers
-King of meals for the lazy-at-heart
+King of meals for the lazy-at-heart.
 #####Pre-made meals
 Cheaper than fast food, packaged to be a complete meal; human kibble (which is what we all want really).
 #####Restaurants
