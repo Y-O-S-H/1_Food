@@ -14,7 +14,8 @@
 
         Q: What would happen if I don't eat one (or more) of the above daily?
         A: The closer you can get to the above basic values, the greater your mental and physical capacity to both handle problems and improve life.
-        
+
+##How to get/prepare food
 #####Cooking
 With a basic, affordable outlay of kitchen supplies you can meet any dietary requirement imaginable with the largest range of food choices that life has to offer.
 #####Farming
@@ -29,6 +30,7 @@ King of meals for the lazy-at-heart.
 Cheaper than fast food, packaged to be a complete meal; human kibble (which is what we all want really).
 #####Restaurants
 Treating yourself or your group to a meal prepared by a professional using ingredients that have undergone scrutiny to a degree greater than you or your group can provide. Can be used in conjunction with celebrations.
+
 ## Easy troubleshooting
 ###You need help when
 * You cannot believe the opinion of those that have noticeably improved your life and only want what's best for you.
