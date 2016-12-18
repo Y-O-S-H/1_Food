@@ -1,14 +1,20 @@
 ## Why you need food
-*These daily values are for one adult human; listed by importance.*
+Food is ALWAYS, first and foremost, something you eat that enables your brain and all your internal organs to do their magic so they can heal damage done to your mind and body.
 
-		* Energy				2000 Calories OR 8700 kJ
-		* Sodium				2,300mg
-		* Protein				50g
-		* Dietary fibre			30g
-		* Fat					70g
-		* Saturated fatty acids	24g
-		* Carbohydrate			310g
-		* Sugars				90g
+Food can also be:
+* A great emotional comfort for people in times of need.
+* A great way to meet people socially, either by helping gather or prepare it for others.
+
+*These daily nutritional values are for one adult human; listed by importance.*
+
+		* Energy..................2000 Calories OR 8700 kJ
+		* Sodium..................2,300mg
+		* Protein.................50g
+		* Dietary fibre...........30g
+		* Fat.....................70g
+		* Saturated fatty acids...24g
+		* Carbohydrate............310g
+		* Sugars..................90g
 
 ###Concerns
 
