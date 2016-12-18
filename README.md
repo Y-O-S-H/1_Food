@@ -6,7 +6,7 @@ Food can also be:
 * A great way to meet people socially, either by helping gather or prepare it for others.
 * A way to extend your life.
 
-###For you to get the most basic benefits that any human could get out of food
+###But for anyone to get food's most basic benefits, you need the below information
 
 *These daily nutritional values are for one adult human; listed by importance.*
 
