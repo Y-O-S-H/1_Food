@@ -1,14 +1,14 @@
 ## Why you need food
 *These daily values are for one adult human; listed by importance.*
 
-		* Energy									2000 Calories OR 8700 kJ
-		* Sodium									2,300mg
-		* Protein									50g
-		* Dietary fibre								30g
-		* Fat										70g
-		* Saturated fatty acids						24g
-		* Carbohydrate								310g
-		* Sugars									90g
+		* Energy				2000 Calories OR 8700 kJ
+		* Sodium				2,300mg
+		* Protein				50g
+		* Dietary fibre			30g
+		* Fat					70g
+		* Saturated fatty acids	24g
+		* Carbohydrate			310g
+		* Sugars				90g
 
 ###Concerns
 
