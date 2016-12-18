@@ -16,14 +16,14 @@
         A: The closer you can get to the above basic values, the greater your mental and physical capacity to both handle problems and improve life.
         
 ## Sourcing
-* Cooking
-* Farming
-* Fastfood
-* Home Delivery
-* Hunting
-* Leftovers
-* Pre-made meals
-* Restaurants
+#####Cooking
+#####Farming
+#####Fastfood
+#####Home Delivery
+#####Hunting
+#####Leftovers
+#####Pre-made meals
+#####Restaurants
 
 ## Easy troubleshooting
 ###You need help when
