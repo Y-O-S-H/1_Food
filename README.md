@@ -1,9 +1,5 @@
-## What you need###
-
-Average human's basic daily dietary needs
-
-*These values are for one adult human*
-
+## What every humans needs
+*These daily values are for one adult human*
 * Energy ................................... 8700kJ
 * Protein ................................... 50g
 * Fat ......................................... 70g
@@ -12,6 +8,8 @@ Average human's basic daily dietary needs
 * Sodium .................................. 2,300mg
 * Sugars .................................... 90g
 * Dietary fibre .......................... 30g
+
+
 
 
         Q: What would happen if I don't eat one (or more) of the above daily?
