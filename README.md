@@ -1,9 +1,13 @@
 ## Why you need food
-Food is ALWAYS, first and foremost, something you eat that enables your brain and all your internal organs to do their magic so they can heal damage done to your mind and body.
+Food is ALWAYS, first and foremost, something you eat that enables your brain and all your internal organs to do their magic so they can heal damage done to your mind and body. No matter what anyone says about 'you' and your eating habits, what 'food' is to every human being is the same.
 
 Food can also be:
 * A great emotional comfort for people in times of need.
 * A great way to meet people socially, either by helping gather or prepare it for others.
+* A way to extend your life.
+* Survival.
+
+###For you to get the most basic benefits that any human could get out of food
 
 *These daily nutritional values are for one adult human; listed by importance.*
 
@@ -19,7 +23,7 @@ Food can also be:
 ###Concerns
 
 		Q: What am I supposed to do with the above information?
-		A: Before we get fancy and start asking questions before we've evern started, let's just get you fed and happy first.
+		A: Before we get fancy and start asking questions before we've even started, let's just get you fed first.
 
 
 		Q: What if I can't/don't eat one (or more) of the above daily; or eat too much?
