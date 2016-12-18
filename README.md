@@ -39,4 +39,4 @@
 ###Addiction
 
     Q: When is addiction a problem?
-    A: When it begins to impact parts of your life that used to make you happy. Whether that be other people or just yourself.
+    A: A: When it begins to impact parts of your life that used to make you happy, whether that involves people or just yourself.
