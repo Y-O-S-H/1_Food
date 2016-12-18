@@ -1,6 +1,6 @@
 ## Why you need food
 *These daily values are for one adult human*
-* Energy ................................... 8700kJ
+* Energy ................................... 2000 Calories OR 8700 kJ
 * Protein ................................... 50g
 * Fat ......................................... 70g
 * Saturated fatty acids .............. 24g
@@ -9,8 +9,8 @@
 * Sugars .................................... 90g
 * Dietary fibre .......................... 30g
 
-        Q: What if I can't/don't eat one (or more) of the above daily?
-        A: The closer you can get to the above basic values, the greater your mental and physical capacity to both handle problems and improve life.
+		Q: What if I can't/don't eat one (or more) of the above daily; or eat too much of one?
+		A: The closer you can get to the above basic values by controlling your own intake, the greater your mental and physical capacity to both handle problems and improve life.
 
 ##How to achieve your food needs
 ###Gathering
@@ -35,9 +35,9 @@ An option for large groups and families seeking to feed a wide variety of people
 Treating yourself or your group to a meal prepared by a professional using ingredients that have undergone scrutiny to a degree greater than you or your group can provide. Can be used in conjunction with celebrations.
 
 ## Easy troubleshooting (＄+ | ⏱+)
-###You need help when
-* You cannot believe the opinion of those that have noticeably improved your life and only want what's best for you.
-* Food occupies your mind alongside fear so often that it prevents you from enjoying life.
+###When do I need to seek help to improve my finances and free time?
+* You cannot believe the opinion of those that have noticeably improved your life and continuously prove they only have your best interest at heart.
+* A topic or concept occupies your mind alongside fear so often and uncontrollably that it prevents you from enjoying life.
 
 ###Common concerns
 
@@ -47,5 +47,5 @@ Treating yourself or your group to a meal prepared by a professional using ingre
 
 ###Addiction
 
-    Q: When is addiction a problem?
-    A: When it begins to impact parts of your life that used to make you happy, whether that involves people or just yourself.
+	Q: When is addiction a problem?
+	A: When it begins to impact parts of your life that used to make you happy, whether that involves people or just yourself.
