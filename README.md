@@ -38,7 +38,9 @@ Food can also be:
 Soil nutrition, crop rotations, and how much per square meter is required to generate how much food to feed a person.
 #####Hunting (＄＄＄＄ | ⏱⏱⏱⏱)
 Available only to those that live in regions where regulation and licensing allowing for sustainable hunting, and natives of a country whose lifestyle depend upon it.
-#####A paycheck (＄＄＄＄ | ⏱⏱)
+#####Economic income (＄＄＄＄ | ⏱⏱)
+* Family/Social/Government assistance
+* Being a part of an economic supply chain
 With money you could purchase both food, storage for it, and even to have someone else prepare it for you!
 ###Preparation
 #####Cooking (＄＄＄＄ | ⏱⏱⏱⏱)
