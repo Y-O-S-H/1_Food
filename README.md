@@ -39,7 +39,7 @@ Treating yourself or your group to a meal prepared by a professional using ingre
 * You cannot believe the opinion of those that have noticeably improved your life and continuously prove they only have your best interest at heart.
 * A topic or concept occupies your mind alongside fear so often and uncontrollably that it prevents you from enjoying life.
 
-###Common concerns
+###Common obstacles
 
 * Securing a stable flow of food
 * Ability to provide food for others
@@ -47,5 +47,5 @@ Treating yourself or your group to a meal prepared by a professional using ingre
 
 ###Addiction
 
-	Q: When is addiction a problem?
-	A: When it begins to impact parts of your life that used to make you happy, whether that involves people or just yourself.
+	Q: When is ANYTHING called an addiction?
+	A: When it stop the parts of your life where you remember feeling happy and fulfilled. The problem and answer could easily affect only you, or you and those around you.
