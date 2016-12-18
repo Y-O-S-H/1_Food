@@ -30,7 +30,7 @@ Food can also be:
 
 
 		Q: Hey, I know we need things like vitamins and minterals! Why aren't they on the list?
-		A: Because you need to do the above list every day, whereas the other things can be considered when someone is willing to create their 'diet'. Not everyone wants their food to have to be labelled a 'diet', or even have to put that much thought into it, and some people only eat for comfort/pleasure.
+		A: Because you need to do the above list every day, whereas 'complete nutritional' information changes greatly depending on every human's biology, environment, situation, and own personal willingness. Not everyone wants their food to come with a political identity, or have to put that much effort or thought into eating, and some people only eat for comfort/pleasure.
 
 ##How to achieve your food needs
 ###Gathering
