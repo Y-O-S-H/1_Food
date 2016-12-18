@@ -29,10 +29,14 @@
 ###You need help when
 * You cannot believe the opinion of those that have noticeably improved your life and only want what's best for you.
 * Food occupies your mind alongside fear so often that it prevents you from enjoying life.
+
 ###Common concerns
+
 * Securing a stable flow of food
 * Ability to provide food for others
 * Fear of inability to cook
+
 ###Addiction
+
     Q: When is addiction a problem?
     A: When it begins to impact parts of your life that used to make you happy. Whether that be other people or just yourself.
