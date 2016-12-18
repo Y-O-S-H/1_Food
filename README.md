@@ -1,13 +1,13 @@
 ## Why you need food
-*These daily values are for one adult human*
+*These daily values are for one adult human; listed by importance*
 * Energy ................................... 2000 Calories OR 8700 kJ
+* Sodium .................................. 2,300mg
 * Protein ................................... 50g
+* Dietary fibre .......................... 30g
 * Fat ......................................... 70g
 * Saturated fatty acids .............. 24g
 * Carbohydrate ......................... 310g
-* Sodium .................................. 2,300mg
 * Sugars .................................... 90g
-* Dietary fibre .......................... 30g
 
 		Q: What if I can't/don't eat one (or more) of the above daily; or eat too much of one?
 		A: The closer you can get to the above basic values by controlling your own intake, the greater your mental and physical capacity to both handle problems and improve life.
