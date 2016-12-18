@@ -1,5 +1,6 @@
 ## Why you need food
 *These daily values are for one adult human; listed by importance.*
+
 		* Energy									2000 Calories OR 8700 kJ
 		* Sodium									2,300mg
 		* Protein									50g
