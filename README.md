@@ -18,7 +18,7 @@ Food can also be:
 		* Saturated fatty acids...24g
 		* Carbohydrate............310g
 		* Sugars..................90g
-        [http://caloriecontrol.org/healthy-weight-tool-kit/food-calorie-calculator/](http://caloriecontrol.org/healthy-weight-tool-kit/food-calorie-calculator/ "Simple Food Calculator")
+        [Simple Food Calculator](http://caloriecontrol.org/healthy-weight-tool-kit/food-calorie-calculator/ "Simple Food Calculator")
 
 ###Concerns
 
