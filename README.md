@@ -19,7 +19,7 @@ Soil nutrition, crop rotations, and how much per square meter is required to gen
 #####Hunting (＄＄＄＄ | ⏱⏱)
 Available only to those that live in regions where regulation and licensing allowing for sustainable hunting, and natives of a country whose lifestyle depend upon it.
 #####A paycheck (＄＄＄＄ | ⏱⏱)
-Obtain your produce by using your paycheck.
+With money you could purchase both food, storage for it, and even to have someone else prepare it for you!
 ###Preparation
 #####Cooking (＄＄＄＄＄ | ⏱⏱⏱⏱⏱)
 With a basic, affordable outlay of kitchen supplies you can meet any dietary requirement imaginable with the largest range of food choices that life has to offer.
