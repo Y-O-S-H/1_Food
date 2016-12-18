@@ -47,5 +47,5 @@ Treating yourself or your group to a meal prepared by a professional using ingre
 
 ###Addiction
 
-	Q: When is ANYTHING called an addiction?
-	A: When it stop the parts of your life where you remember feeling happy and fulfilled. The problem and answer could easily affect only you, or you and those around you.
+	Q: When is ANYTHING called an addiction? In a bad way I mean.
+	A: When that 'thing' stops the parts of your life where you remember feeling happy and fulfilled. The problem and answer could just as easily affect only you, or you and those around you.
