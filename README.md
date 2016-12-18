@@ -21,16 +21,16 @@ Food can also be:
 [Simple Food Database Calculator](http://caloriecontrol.org/healthy-weight-tool-kit/food-calorie-calculator)
 ###Concerns
 
+		Q: Hey, I know we need things like vitamins and minterals! Why aren't they on the list?
+		A: Because you need to do the above list every day, whereas 'complete nutritional' information changes greatly depending on every human's biology, environment, situation, and own personal willingness. Not everyone wants their food to come with a political identity, or have to put that much effort or thought into eating, and some people only eat for comfort/pleasure.
+		
+		
 		Q: What am I supposed to do with the above information?
-		A: Before we get fancy and start asking questions before we've even started, let's just get you fed first.
+		A: Use it to let yourself and the people in your life know what you need.
 
 
 		Q: What if I can't/don't eat one (or more) of the above daily; or eat too much?
-		A: The closer you can get to the above basic values through controlling your own intake, the greater your mental and physical capacity to both handle problems and improve life. Simple as that.
-
-
-		Q: Hey, I know we need things like vitamins and minterals! Why aren't they on the list?
-		A: Because you need to do the above list every day, whereas 'complete nutritional' information changes greatly depending on every human's biology, environment, situation, and own personal willingness. Not everyone wants their food to come with a political identity, or have to put that much effort or thought into eating, and some people only eat for comfort/pleasure.
+		A: The closer you can get to the above basic values through controlling your own intake, the greater your mental and physical capacity to handle problems and improve life. Simple as that.
 
 ##How to achieve your food needs
 ###Gathering
